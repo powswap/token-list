@@ -1374,5 +1374,13 @@
         "symbol": "DOUGH",
         "decimals": 18,
         "logoURI": "https://i.imgur.com/ooSeceZ.jpeg"
-      }
+      }, 
+      {
+      "chainId": 10001,
+      "address": "0x884E0aE338624D18573d06531899B90A545BaA98",
+      "name": "powgecoin",
+      "symbol": "POWGE",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/B37ZGHg/2022-09-16-11-57-41.jpg"
+    }
   ]
