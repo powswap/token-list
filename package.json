@@ -1,6 +1,6 @@
 {
   "name": "@powswap/default-token-list",
-  "version": "4.1.1",
+  "version": "4.2.0",
   "description": "◦ The Powswap default token list",
   "main": "build/powswap-default.tokenlist.json",
   "scripts": {
