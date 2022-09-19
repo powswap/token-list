@@ -1406,5 +1406,13 @@
         "symbol": "POWGE",
         "decimals": 18,
         "logoURI": "https://i.ibb.co/B37ZGHg/2022-09-16-11-57-41.jpg"
-      }
+    },
+    {
+        "chainId": 10001,
+        "address": "0xfc4913214444aF5c715cc9F7b52655e788A569ed",
+        "name": "Icosa",
+        "symbol": "ICSA",
+        "decimals": 9,
+        "logoURI": "https://etherscan.io/token/images/hedronv3_32.png"
+    }
   ]
