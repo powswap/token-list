@@ -1382,5 +1382,21 @@
         "symbol": "Hedron",
         "decimals": 9,
         "logoURI": "https://etherscan.io/token/images/hedronv3_32.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0x2ad7868ca212135c6119fd7ad1ce51cfc5702892",
+        "name": "Chainge Bridged USDT",
+        "symbol": "cbUSDT",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0xbd1563046a90f18127fd39f3481fd8d6ab22877f",
+        "name": "Chainge Bridged BNB",
+        "symbol": "cbBNB",
+        "decimals": 9,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
     }
   ]
