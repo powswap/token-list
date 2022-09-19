@@ -1398,7 +1398,7 @@
         "symbol": "cbBNB",
         "decimals": 9,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
-    }
+    },
     {
         "chainId": 10001,
         "address": "0x884E0aE338624D18573d06531899B90A545BaA98",
