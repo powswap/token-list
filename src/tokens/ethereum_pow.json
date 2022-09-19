@@ -1388,7 +1388,7 @@
         "address": "0x2ad7868ca212135c6119fd7ad1ce51cfc5702892",
         "name": "Chainge Bridged USDT",
         "symbol": "cbUSDT",
-        "decimals": 9,
+        "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
@@ -1399,4 +1399,12 @@
         "decimals": 9,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
     }
+    {
+        "chainId": 10001,
+        "address": "0x884E0aE338624D18573d06531899B90A545BaA98",
+        "name": "powgecoin",
+        "symbol": "POWGE",
+        "decimals": 18,
+        "logoURI": "https://i.ibb.co/B37ZGHg/2022-09-16-11-57-41.jpg"
+      }
   ]
