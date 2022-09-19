@@ -1414,5 +1414,13 @@
         "symbol": "ICSA",
         "decimals": 9,
         "logoURI": "https://etherscan.io/token/images/hedronv3_32.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0x06f5c4b437fbeedbeb2d734c8924f9f8b6517c9f",
+        "name": "OKDEX",
+        "symbol": "OKDEX",
+        "decimals": 18,
+        "logoURI": "https://okdex.trade/images/logo-dark.png"
     }
   ]
