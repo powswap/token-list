@@ -1430,5 +1430,13 @@
         "symbol": "bWETH",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0xD06B2e359E91C486EB2c5128B2050ED7442b217e",
+        "name": "Shib POW",
+        "symbol": "ShibW",
+        "decimals": 6,
+        "logoURI": "https://i.imgur.com/gXuVywA.jpg"
     }
   ]
