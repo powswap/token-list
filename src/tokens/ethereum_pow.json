@@ -48,22 +48,6 @@
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
     {
-      "name": "Tether USD",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 10001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "name": "USDCoin",
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 10001,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
       "name": "Orchid",
       "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
       "symbol": "OXT",
@@ -1401,7 +1385,7 @@
     },
     {
         "chainId": 10001,
-        "address": "0x884E0aE338624D18573d06531899B90A545BaA98",
+        "address": "0x172c82bdefec820309ec54debe96c16bd95f257d",
         "name": "powgecoin",
         "symbol": "POWGE",
         "decimals": 18,
@@ -1422,5 +1406,29 @@
         "symbol": "OKDEX",
         "decimals": 18,
         "logoURI": "https://okdex.trade/images/logo-dark.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0xB6334BeDf341d111525A1Db8fBE7805dE57De957",
+        "name": "BridgeTech USDT",
+        "symbol": "bUSDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0xB6334BeDf341d111525A1Db8fBE7805dE57De957",
+        "name": "BridgeTech USDC",
+        "symbol": "bUSDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+        "chainId": 10001,
+        "address": "0xB007f6c4511fD2b70a02BfcFAb6072BcEf21788d",
+        "name": "BridgeTech WETH (PoS)",
+        "symbol": "bWETH",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
