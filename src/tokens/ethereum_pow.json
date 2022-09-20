@@ -1417,7 +1417,7 @@
     },
     {
         "chainId": 10001,
-        "address": "0xB6334BeDf341d111525A1Db8fBE7805dE57De957",
+        "address": "0xC675FDBe260e1ee93106Ee596B916952a9344f44",
         "name": "BridgeTech USDC",
         "symbol": "bUSDC",
         "decimals": 6,
