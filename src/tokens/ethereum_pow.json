@@ -1430,5 +1430,13 @@
         "symbol": "bWETH",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x70c7bc6d7efa2144495e2fbfa6513286ce304da4",
+      "name": "Dejitaru Tsuka POW",
+      "symbol": "TSUKAW",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20789.png"
     }
   ]
